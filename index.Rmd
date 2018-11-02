@@ -1,0 +1,7 @@
+---
+
+---
+<link rel="stylesheet" href="style.css" type="text/css">
+
+helllo , i present you my website , it will be full of projects .
+I like using a lot `R`  and  Python for  Data Analysis and Exploring patterns.
