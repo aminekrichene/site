@@ -10,7 +10,7 @@ href: index.html
 
 output:
   html_document:
-highlight: textmate
-css: style.css
-lib_dir: site_libs
-self_contained: no
+  highlight: textmate
+  css: style.css
+  lib_dir: site_libs
+  self_contained: no
